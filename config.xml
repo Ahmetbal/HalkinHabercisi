@@ -115,6 +115,10 @@
     <gap:splash src="clk-uludag-logo-32.png"      gap:platform="winphone" />
 	
 
+    <platform name="android">
+        <resource-file src="google-services.json" target="google-services.json" />
+    </platform>
+
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
     <string>109</string>
