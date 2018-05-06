@@ -16,7 +16,7 @@
     <preference name="phonegap-version" value="cli-6.5.0" />
 
     
-    <content src="index.html" />
+
     <access origin="*" />
 
     <allow-intent href="http://*/*" />
