@@ -6,8 +6,8 @@
 <body>
 
 <script>
-var ref = cordova.InAppBrowser.open('http://apache.org', '_blank', 'hidden=yes');
-ref.show();
+var ref = cordova.InAppBrowser.open('http://apache.org', '_blank', 'location=yes');
+ref.addEventListener('loadstart', function(event) { alert(event.url); });
 </script>
 
 
