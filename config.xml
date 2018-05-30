@@ -168,7 +168,7 @@
    <plugin name="org.apache.cordova.splashscreen" spec="4.0.2" /> 
 <plugin name="org.apache.cordova.statusbar" /> -->
 	
-	
+    <allow-navigation href="http://halkinhabercisi.com" /> 
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
