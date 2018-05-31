@@ -110,6 +110,7 @@
     <icon src="icon-80.png"     gap:platform="blackberry" gap:state="hover"/>
 
 	<icon src="icon.png" gap:platform="ios" />
+	<icon src="AppIcon40x40.png" width="40" height="40" gap:platform="ios" />
 	<icon src="icon-72.png" width="72" height="72" gap:platform="ios" />
 	<icon src="icon-72@2x.png" width="152" height="152" gap:platform="ios" />
 	<icon src="icon-76.png" width="76" height="76" gap:platform="ios" />
